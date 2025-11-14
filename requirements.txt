@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+io
+os
+typing
+tempfile
+json
+numpy
+pandas
